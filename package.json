@@ -1,0 +1,17 @@
+{
+  "name": "ts-edu-a1-arrays",
+  "version": "1.0.0",
+  "description": "This is a simple educational material for TS new comminorssettings.json",
+  "license": "ISC",
+  "author": "NN",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}
